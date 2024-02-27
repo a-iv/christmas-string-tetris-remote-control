@@ -1,22 +1,16 @@
 
 > Открыть эту страницу в [https://a-iv.github.io/christmas-string-tetris-remote-control/](https://a-iv.github.io/christmas-string-tetris-remote-control/)
 
-## Использовать это расширение
+Пульт дистанционного управления для [https://github.com/a-iv/christmas-string-tetris](https://github.com/a-iv/christmas-string-tetris).
 
-Этот репозиторий может быть добавлен в MakeCode как **расширение**.
+## Использовать этот проект
 
-* открыть [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* нажмите на **Новый проект**
-* нажмите **Расширения** в меню-шестерёнке
-* найдите **https://github.com/a-iv/christmas-string-tetris-remote-control** и импортируйте
+Чтобы загрузить проект на микроконтроллер, необходимо:
 
-## Править этот проект
-
-Редактировать этот репозиторий в MakeCode.
-
-* открыть [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* нажмите на **Импорт**, затем **Импорт URL**
-* вставьте **https://github.com/a-iv/christmas-string-tetris-remote-control** и нажмите Импорт
+* Открыть [https://makecode.microbit.org/](https://makecode.microbit.org/).
+* Нажать на **Импорт**, затем **Импорт URL**.
+* Вставить **https://github.com/a-iv/christmas-string-tetris-remote-control** и нажать **Вперед!**.
+* Подключить BBC micro:bit V2 и нажать **Скачать**.
 
 #### Метаданные (используются для поиска, рендеринга)
 
